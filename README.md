@@ -21,7 +21,7 @@ With 9 years of teaching expertise in Machine Learning, Data Analytics, and Natu
 - Microsoft Certified: MySQL
 - HPE Certifications — Machine Learning and Python
 
-- 🏢 Codegnan IT Solutions, Vijayawada / Hyderabad
+- 🏢 Codegnan IT Solutions, Vijayawada / Hyderabad / Visakhapatnam
 - 💼 [LinkedIn — Saketh Kallepu](https://www.linkedin.com/in/saketh-codegnan)
 - 📫 saketh@codegnan.com
 
