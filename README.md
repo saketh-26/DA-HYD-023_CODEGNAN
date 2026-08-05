@@ -38,3 +38,4 @@ With 9 years of teaching expertise in Machine Learning, Data Analytics, and Natu
 | Day 5 | Conditional Statements — Grade Analyzer (if-else) | [day5.py](./day5.py) |
 | Day 6 | Control Statements — Loops (for, while), range() | [day6.py](./day6.py) |
 | Day 7 | for...else — Loop-Else Behavior, Longest Streak Problem | [day7.py](./day7.py) |
+| Day 8 | Introduction to Strings,Indexing,Slicing and Operations | [day8.py](./day8.py) |
