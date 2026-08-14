@@ -41,4 +41,6 @@ With 9 years of teaching expertise in Machine Learning, Data Analytics, and Natu
 | Day 8 | Introduction to Strings,Indexing,Slicing and Operations | [day8.py](./day8.py) |
 | Day 9 | Strings Operations and Methods Usage | [day9.py](./day9.py) |
 | Day 10 | Introduction to Lists,Operations | [day10.py](./day10.py) | 
+| Day 11 | Lists Methods and Tuples Usage | [day11.py](./day11.py) |
+| Day 12 | Introduction to Sets,Operations and Methods Usage | [day12.py](./day12.py) |
 
