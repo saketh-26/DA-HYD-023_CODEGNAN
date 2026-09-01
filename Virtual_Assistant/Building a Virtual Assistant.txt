@@ -1,0 +1,53 @@
+Building a Virtual Assistant
+
+Speaks->responds
+
+Functions,Conditions -->Modules (download)
+
+Project --> AI,Full Stack 
+
+Virtual Environment Python version 3.13.,3.12,3.11
+
+Virtual Assistant -->Speak (TTS) 
+gtts
+playsound
+
+pip install playsound==1.2.2
+pip install pyaudio
+pip install SpeechRecognition
+
+pip freeze > requirements.txt
+
+pip install -r requirements.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
